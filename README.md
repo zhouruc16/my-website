@@ -1,4 +1,4 @@
-# Jason Liu's Portfolio Website
+# Rucheng Zhou's Portfolio Website
 Welcome to my portfolio website repository! This project showcases my professional journey, including my project portfolio, education, and working experience. I go by the name "Jason," so feel free to refer to me by that name.
 
 ## About Me
@@ -20,4 +20,4 @@ Thank you for visiting my portfolio website, and I hope you enjoy exploring my p
 
 Best regards,
 
-Jason Liu (Haosong Liu)
+Rucheng Zhou
