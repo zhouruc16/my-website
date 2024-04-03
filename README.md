@@ -1,5 +1,5 @@
 # Rucheng Zhou's Portfolio Website
-Welcome to my portfolio website repository! This project showcases my professional journey, including my project portfolio, education, and working experience. I go by the name "Jason," so feel free to refer to me by that name.
+Welcome to my portfolio website repository! This project showcases my professional journey, including my project portfolio, education, and working experience. I go by the name "Evelyn," so feel free to refer to me by that name.
 
 ## About Me
 I am a passionate and creative individual with a strong background in [your field of expertise]. Throughout my career, I have actively pursued exciting projects and challenges that allow me to grow both personally and professionally. This portfolio website serves as a medium to share my accomplishments, skills, and experiences with the world.
