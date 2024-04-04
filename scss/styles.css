@@ -549,6 +549,33 @@ footer {
   border-radius: 4px;
 }
 
+.ui-project {
+  background-image: url("../images/AB.png");
+  background-color: rgba(255, 255, 255, 0.9);
+  background-blend-mode: overlay;
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+}
+
+.news-project {
+  background-image: url("../images/Recommendation.jpg");
+  background-color: rgba(255, 255, 255, 0.8);
+  background-blend-mode: overlay;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 80% 70%;
+}
+
+.earthquake-project {
+  background-image: url("../images/earthsplit.png");
+  background-color: rgba(255, 255, 255, 0.9);
+  background-blend-mode: overlay;
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: 100% 70%;
+}
+
 .project-image {
   float: left;
 }
