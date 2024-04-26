@@ -549,6 +549,15 @@ footer {
   border-radius: 4px;
 }
 
+.coursistant-project {
+  background-image: url("../images/Coursistant/Piazza_Logo.jpg");
+  background-color: rgba(255, 255, 255, 0.75);
+  background-blend-mode: overlay;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 80% 50%;
+}
+
 .ui-project {
   background-image: url("../images/AB.png");
   background-color: rgba(255, 255, 255, 0.9);
